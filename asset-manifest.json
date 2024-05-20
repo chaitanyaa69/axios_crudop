@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axios_crudop/static/css/main.ff02f4b5.css",
+    "main.js": "/axios_crudop/static/js/main.9dc65168.js",
+    "index.html": "/axios_crudop/index.html",
+    "main.ff02f4b5.css.map": "/axios_crudop/static/css/main.ff02f4b5.css.map",
+    "main.9dc65168.js.map": "/axios_crudop/static/js/main.9dc65168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.9dc65168.js"
+  ]
+}
